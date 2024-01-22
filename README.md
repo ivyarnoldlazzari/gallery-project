@@ -1,4 +1,4 @@
-Project: 
+About the Project: 
 <br>
 Photo gallery website
 
