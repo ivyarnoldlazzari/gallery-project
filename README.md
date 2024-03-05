@@ -9,3 +9,6 @@ Photo gallery website
 - HTML
 - CSS
 - SASS
+
+<h1>Deploy</h1>
+https://galleriadev.netlify.app/
