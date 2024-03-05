@@ -3,7 +3,6 @@
 Photo gallery website
 <br>
 <br>
-<img src = https://github.com/ivyarnoldlazzari/gallery-project/blob/master/img/img.png?raw=true>
 <br>
 <h1>Technologies used:</h1>
 
@@ -11,5 +10,9 @@ Photo gallery website
 - CSS
 - SASS
 
-<h1>Deploy</h1>
+<h1>Deploy:</h1>
 https://galleriadev.netlify.app/
+
+<h1>Layout:</h1>
+
+<img src = https://github.com/ivyarnoldlazzari/gallery-project/blob/master/img/img.png?raw=true>
